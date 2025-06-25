@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "kyzryzz",
+    "email": "kyzryzz@is-a.dev"
+  },
+  "records": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
